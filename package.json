@@ -1,6 +1,7 @@
 {
   "name": "@shady/sdk-core",
-  "license": "MIT",
+  "license": "ISC",
+  "private": false,
   "version": "4.2.1",
   "description": "⚒️ An SDK for building applications on top of Uniswap V3",
   "main": "dist/index.js",
